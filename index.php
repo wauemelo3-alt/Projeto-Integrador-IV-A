@@ -259,9 +259,9 @@
                 <div class="modal-header"><h5 class="modal-title">Sobre & Contato</h5><button type="button" class="btn-close" data-bs-dismiss="modal"></button></div>
                 <div class="modal-body">
                     <p class="mb-4 contact-text">Bem-vindo ao meu portfólio. Aqui apresento os projetos que venho desenvolvendo durante minha jornada como estudante de tecnologia. Estou sempre aprendendo e explorando novas ferramentas para criar soluções criativas.</p>
-                    <p class="contact-text"><strong>Email:</strong> wauemelo3@gmail.com</p>
-                    <p class="contact-text"><strong>Telefone:</strong> (16) 98185-3867</p>
-                    <a href="https://wa.me/5516981853867" target="_blank" class="whatsapp-link"><i class="fab fa-whatsapp"></i> Fale no WhatsApp</a>
+                    <p class="contact-text"><strong>Email:</strong> projetointegrador@gmail.com</p>
+                    <p class="contact-text"><strong>Telefone:</strong> (82) 9999-9999</p>
+                    <a href="https://wa.me/55829999999" target="_blank" class="whatsapp-link"><i class="fab fa-whatsapp"></i> Fale no WhatsApp</a>
                 </div>
             </div>
         </div>
