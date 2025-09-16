@@ -42,6 +42,3 @@ Siga os passos abaixo para configurar e rodar o projeto em seu ambiente local.
 
 4.  **Inicie o servidor e acesse `http://localhost/portfolio-php` no seu navegador.**
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
