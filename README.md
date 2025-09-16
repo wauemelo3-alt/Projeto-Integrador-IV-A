@@ -2,8 +2,6 @@
 
 Este é um projeto de um portfólio web dinâmico, desenvolvido para gerenciar e exibir projetos de forma profissional e interativa.
 
-![Imagem de Exemplo do Portfólio](link_para_uma_imagem_do_seu_projeto.png)
-*(Dica: Tire um print da sua tela e suba a imagem no repositório para exibi-la aqui)*
 
 ## ✨ Funcionalidades
 
