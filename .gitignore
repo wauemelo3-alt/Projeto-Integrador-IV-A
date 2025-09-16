@@ -1,0 +1,10 @@
+
+db_connect.php
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+/vendor/
+node_modules/
+npm-debug.log
